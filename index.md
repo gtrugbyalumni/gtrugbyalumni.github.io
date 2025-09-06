@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/css/style.css">
+
 # GT Rugby Alumni Association Foundation
 
 Visit [gtrugbyalumni.org](https://gtrugbyalumni.org)
