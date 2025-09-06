@@ -1,0 +1,72 @@
+:root {
+  --tech-gold: #B3A369;
+  --navy-blue: #003057;
+  --white: #FFFFFF;
+}
+
+body {
+  background: var(--white);
+  color: var(--navy-blue);
+  font-family: 'Segoe UI', 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header, h1, h2, h3, h4, h5, h6 {
+  color: var(--navy-blue);
+}
+
+a {
+  color: var(--tech-gold);
+  text-decoration: underline;
+  transition: color 0.2s, background 0.2s;
+}
+
+a:hover {
+  color: var(--navy-blue);
+  background: var(--tech-gold);
+}
+
+nav, .navbar, header {
+  background: var(--navy-blue);
+  color: var(--white);
+  padding: 1rem;
+}
+
+section, .content, main {
+  background: var(--white);
+  color: var(--navy-blue);
+  padding: 2rem;
+  border-radius: 12px;
+  margin: 2rem auto;
+  max-width: 800px;
+  box-shadow: 0 2px 12px rgba(0,48,87,0.08);
+}
+
+button, .btn, input[type="submit"] {
+  background: var(--tech-gold);
+  color: var(--navy-blue);
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+}
+
+button:hover, .btn:hover, input[type="submit"]:hover {
+  background: var(--navy-blue);
+  color: var(--tech-gold);
+}
+
+hr {
+  border: 1px solid var(--navy-blue);
+  margin: 2rem 0;
+}
+
+@media (max-width: 700px) {
+  section, .content, main {
+    padding: 1rem;
+    margin: 1rem;
+  }
+}
