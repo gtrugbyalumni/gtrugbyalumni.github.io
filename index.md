@@ -2,7 +2,7 @@
 
 Visit [gtrugbyalumni.org](https://gtrugbyalumni.org)
 
-Quick Links for the 50th Homecoming of GTRugby
+Quick Links for the 50th Anniversary Homecoming of the GTRFC
 
 ## Purchase Links
 
