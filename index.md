@@ -1,4 +1,4 @@
-# GT Rugby Alumni
+# GT Rugby Alumni Association Foundation
 
 Visit [gtrugbyalumni.org](https://gtrugbyalumni.org)
 
