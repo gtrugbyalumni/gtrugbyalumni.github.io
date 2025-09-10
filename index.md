@@ -15,4 +15,4 @@ Quick Links for the 50th Anniversary Homecoming of the GTRFC
 - [One-Time Charitable Donation](https://buy.stripe.com/4gM8wP04S92ygGk0f587K0e)
 - [Monthly Recurring $20 Charitable Donation](https://buy.stripe.com/7sY5kDbNA0w261G2nd87K07)
 
-**Deadline: Monday, Sept 8 for Jerseys**
+**Deadline: Wednesday, Sept 10 for Jerseys**
