@@ -8,6 +8,7 @@ Quick Links for the 50th Anniversary Homecoming of the GTRFC
 
 ## Purchase Links
 
+- [Match Ball - 50th Anniversary](https://buy.stripe.com/6oUaEX2d0ceK2Puf9Z87K0l)
 - [Adult Sizes - GTRFC 50th Anniversary T-Shirt](https://buy.stripe.com/28EbJ15pc0w21LqaTJ87K0j)
 - [Youth Sizes - GTRFC 50th Anniversary T-Shirt](https://buy.stripe.com/cNi9AT9FsbaG2Pu9PF87K0k)
 - [50th Anniversary Rugby Banquet](https://buy.stripe.com/9B614ng3QceKahWd1R87K0g)
